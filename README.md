@@ -7,6 +7,8 @@ subjects across the two complementary views. This paper formulates it as a const
 <div align=center><img src="https://github.com/RuizeHan/CVMHAT/blob/main/figs/example.png" width="500" height="525" alt="example"/><br/>
   
   
+
+  
 <div align= left>
 
 This paper is a substantial extension from a preliminary conference version [AAAI 20] with a number of major changes.
