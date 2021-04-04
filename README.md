@@ -5,6 +5,9 @@ Crowded scene surveillance can significantly benefit from combining egocentric-v
 subjects across the two complementary views. This paper formulates it as a constrained mixed integer programming problem, wherein a major challenge is how to effectively measure subjects similarity over time in each video and across two views. Although appearance and motion consistencies well apply to over-time association, they are not good at connecting two highly different complementary views. To this end, we present a spatial distribution based approach to reliable cross-view subject association. We also build a dataset to benchmark this new challenging task. Extensive experiments verify the effectiveness of our method.
   
 <div align=center><img src="https://github.com/RuizeHan/CVMHAT/blob/main/figs/example.png" width="500" height="525" alt="example"/><br/>
+  
+  
+<div align= left>
 
 This paper is a substantial extension from a preliminary conference version [AAAI 20] with a number of major changes.
 
