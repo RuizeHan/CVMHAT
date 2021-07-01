@@ -31,6 +31,6 @@ This paper is a substantial extension from a preliminary conference version [AAA
 
 Dataset: Link: https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA Password: CVHT.
 
-To get the annotation, please contact the authors. The dataset is only used for academic research.
+The annotation is public in 'CVMHAT_dataset-anno' folder.
 
 Code: Mainly by Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn).
